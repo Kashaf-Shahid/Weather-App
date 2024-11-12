@@ -1,0 +1,7 @@
+#1- For creating programmablesearchengine 
+#" https://programmablesearchengine.google.com/controlpanel/create/congrats?cx=66c46e33305474cad"
+
+#2- For API KEYS: " https://home.openweathermap.org/api_keys"
+
+#3- For image API key "https://developers.google.com/custom-search/v1/introduction"
+
